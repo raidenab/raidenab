@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Raiden%20Abdol&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=220&section=header&text=RAIDEN%20ABDOL&fontSize=75&fontAlignY=40&animation=fadeIn" width="100%" />
 </div>
 
 ### 🚀 About Me
 I am an aspiring Software Engineer currently mastering **Full Stack** and **Cloud Development**. My goal is to build scalable, high-performance applications while deepening my understanding of cloud architecture and system design to break into the big tech industry.
 
 - 🎓 **Student:** Computer Science & Engineering
-- 🎯 **Current Focus:** Data Structures, Algorithms, and Systems Programming
+- 🎯 **Current Focus:** Full Stack Web Development & Cloud Infrastructure
 - ♟️ **Hobbies:** Chess enthusiast and problem solver
 
 ---
@@ -21,6 +21,8 @@ I am an aspiring Software Engineer currently mastering **Full Stack** and **Clou
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+
+---
 
 ### 📚 Currently Learning
 I'm currently focused on these core subjects to build a strong engineering foundation:
