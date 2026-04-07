@@ -1,78 +1,43 @@
 <div align="center">
-
-```
-██████╗  █████╗ ██╗██████╗ ███████╗███╗   ██╗     █████╗ ██████╗ ██████╗  ██████╗ ██╗     
-██╔══██╗██╔══██╗██║██╔══██╗██╔════╝████╗  ██║    ██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║     
-██████╔╝███████║██║██║  ██║█████╗  ██╔██╗ ██║    ███████║██████╔╝██║  ██║██║   ██║██║     
-██╔══██╗██╔══██║██║██║  ██║██╔══╝  ██║╚██╗██║    ██╔══██║██╔══██╗██║  ██║██║   ██║██║     
-██║  ██║██║  ██║██║██████╔╝███████╗██║ ╚████║    ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝
-```
-
-<sub>**`Software Engineer`** · Full Stack & Cloud Development · Targeting Big Tech</sub>
-
+  <img src="https://media.giphy.com/media/l41Ys1f46qg8N8r4M/giphy.gif" alt="RAIDEN ABDOL" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" />
+  <h1 align="center" style="margin-top: -80px; color: #c0e3e7; text-shadow: 2px 2px 4px #000; font-family: 'Courier New', Courier, monospace; letter-spacing: 5px;">RAIDEN ABDOL</h1>
+  <p align="center"> Software Engineer | Full Stack & Cloud</p>
 </div>
+<br>
+
+### 🚀 About Me
+I am an aspiring Software Engineer currently mastering **Full Stack** and **Cloud Development**. My goal is to build scalable, high-performance applications while deepening my understanding of cloud architecture and system design to break into the big tech industry.
+
+- 🎓 **Student:** Computer Science & Engineering
+- 🎯 **Current Focus:** Full Stack Web Development & Cloud Infrastructure
+- ♟️ **Hobbies:** Chess enthusiast and problem solver
 
 ---
 
-```bash
-$ whoami
-> CS & Engineering student | Full Stack + Cloud Infrastructure
-> Goal: Scalable systems, high-performance applications, big tech
-> Hobby: Chess ♟ — because every move is an algorithm
-```
+### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23E0115F.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
 ---
 
-### `about.json`
+### 📚 Currently Learning
+I'm currently focused on these core subjects to build a strong engineering foundation:
 
-```json
-{
-  "name": "Raiden Abdol",
-  "role": "Aspiring Software Engineer",
-  "focus": ["Full Stack Web Dev", "Cloud Architecture", "System Design"],
-  "education": "Computer Science & Engineering",
-  "goal": "Break into big tech",
-  "currently_open_to": "internships, projects, collaboration"
-}
-```
+* **Calculus 3** (Multivariable Calculus)
+* **Computer Organization & Assembly** (ARM Architecture)
+* **Object-Oriented Programming** (Java & C++)
+* **Analysis of Algorithms** (Asymptotic Notation & Sorting)
 
 ---
 
-### `tech_stack.sh`
-
-**Systems & Low-Level**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-E0115F?style=flat-square&logo=rust&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Assembly-0091BD?style=flat-square&logo=arm&logoColor=white)
-
-**Application & Backend**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
----
-
-### `currently_loading[]`
-
-| Module | Topic | Status |
-|--------|-------|--------|
-| `CALC_3` | Multivariable Calculus | 🟡 In Progress |
-| `COMP_ORG` | ARM Architecture & Assembly | 🟡 In Progress |
-| `OOP` | Object-Oriented Design — Java & C++ | 🟡 In Progress |
-| `ALGO` | Analysis of Algorithms — Asymptotic Notation | 🟡 In Progress |
-
----
-
-### `git log --connect`
-
-<a href="https://www.linkedin.com/in/raiden-abdol-585859378/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
----
-
-<sub>⚡ Building toward scalable systems, one commit at a time.</sub>
+### 📫 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/raiden-abdol-585859378/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
