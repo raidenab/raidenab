@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=220&section=header&text=RAIDEN%20ABDOL&fontSize=75&fontAlignY=40&animation=fadeIn" width="100%" />
+  <img src="https://media.giphy.com/media/l41Ys1f46qg8N8r4M/giphy.gif" alt="RAIDEN ABDOL" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" />
+  <h1 align="center" style="margin-top: -80px; color: #c0e3e7; text-shadow: 2px 2px 4px #000; font-family: 'Courier New', Courier, monospace; letter-spacing: 5px;">RAIDEN ABDOL</h1>
+  <p align="center">Aspiring Software Engineer | Full Stack & Cloud</p>
 </div>
+
+<br>
 
 ### 🚀 About Me
 I am an aspiring Software Engineer currently mastering **Full Stack** and **Cloud Development**. My goal is to build scalable, high-performance applications while deepening my understanding of cloud architecture and system design to break into the big tech industry.
