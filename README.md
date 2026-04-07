@@ -3,7 +3,7 @@
 </div>
 
 ### 🚀 About Me
-I am an aspiring Software Engineer focused on mastering the full stack of computing—from high-level algorithms to low-level computer architecture. My current goal is to break into the big tech industry by building efficient, scalable, and impactful software.
+I am an aspiring Software Engineer currently mastering **Full Stack** and **Cloud Development**. My goal is to build scalable, high-performance applications while deepening my understanding of cloud architecture and system design to break into the big tech industry.
 
 - 🎓 **Student:** Computer Science & Engineering
 - 🎯 **Current Focus:** Data Structures, Algorithms, and Systems Programming
@@ -29,22 +29,9 @@ I am an aspiring Software Engineer focused on mastering the full stack of comput
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/raiden-abdol-585859378/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
