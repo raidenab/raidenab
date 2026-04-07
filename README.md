@@ -22,10 +22,12 @@ I am an aspiring Software Engineer currently mastering **Full Stack** and **Clou
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
-**Computer Science & Tools**
-![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=for-the-badge&logo=gitbook)
-![Calculus](https://img.shields.io/badge/-Calculus-794bb5?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 📚 Currently Learning
+I'm currently focused on these core subjects to build a strong engineering foundation:
+* **Calculus 3** (Multivariable Calculus)
+* **Computer Organization & Assembly** (ARM Architecture)
+* **Object-Oriented Programming** (Java & C++)
+* **Analysis of Algorithms** (Asymptotic Notation & Sorting)
 
 ---
 
