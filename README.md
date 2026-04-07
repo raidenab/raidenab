@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l41Ys1f46qg8N8r4M/giphy.gif" alt="RAIDEN ABDOL" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" />
   <h1 align="center" style="margin-top: -80px; color: #c0e3e7; text-shadow: 2px 2px 4px #000; font-family: 'Courier New', Courier, monospace; letter-spacing: 5px;">RAIDEN ABDOL</h1>
-  <p align="center">Aspiring Software Engineer | Full Stack & Cloud</p>
+  <p align="center"> Software Engineer | Full Stack & Cloud</p>
 </div>
 
 <br>
