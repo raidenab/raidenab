@@ -30,7 +30,7 @@ I'm currently focused on these core subjects to build a strong engineering found
 
 * **Calculus 3** (Multivariable Calculus)
 * **Computer Organization & Assembly** (ARM Architecture)
-* **Object-Oriented Programming** (Java & Python)
+* **Object-Oriented Programming** (Java)
 * **Analysis of Algorithms** (Asymptotic Notation & Sorting using C++)
 
 ---
