@@ -9,7 +9,7 @@
 I am an aspiring Software Engineer currently mastering **Full Stack** and **Cloud Development**. My goal is to build scalable, high-performance applications while deepening my understanding of cloud architecture and system design to break into the big tech industry.
 
 - 🎓 **Student:** Computer Science & Engineering
-- 🎯 **Current Focus:** Full Stack Web Development & Cloud Infrastructure
+- 🎯 **Current Focus:** Full Stack (Frontend & Backend) & Cloud Infrastructure
 - ♟️ **Hobbies:** Chess enthusiast and problem solver
 
 ---
