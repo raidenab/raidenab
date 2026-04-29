@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd6YWxjaWtlbTl0dmZpejlneWx6bXc2ZXhlcGczdHkxcW9scml4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="RAIDEN ABDOL" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd6YWxjaWtlbTl0dmZpejlneWx6bXc2ZXhlcGczdHkxcW9scml4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="RAIDEN ABDOL" width="100%" height="400" style="object-fit: cover; border-radius: 10px;" />
   <h1 align="center" style="margin-top: -80px; color: #c0e3e7; text-shadow: 2px 2px 4px #000; font-family: 'Courier New', Courier, monospace; letter-spacing: 5px;">RAIDEN ABDOL</h1>
   <p align="center"> Software Engineer | Full Stack & Cloud Developer</p>
 </div>
