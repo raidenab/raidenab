@@ -1,5 +1,4 @@
 <div align="center">
-10px;" />
   <h1 align="center" style="margin-top: -80px; color: #c0e3e7; text-shadow: 2px 2px 4px #000; font-family: 'Courier New', Courier, monospace; letter-spacing: 5px;">RAIDEN ABDOL</h1>
   <p align="center"> Software Engineer | Full Stack & Cloud Developer</p>
 </div>
